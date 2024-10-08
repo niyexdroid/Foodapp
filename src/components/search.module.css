@@ -5,9 +5,10 @@
 }
 .searchInput {
   border: none;
-  border-bottom: 1px solid #e3e4dc;
+  border-bottom: 1px solid #30302f;
   padding: 10px 20px;
   outline: none;
   font-size: 16px;
   color: rgb(32, 32, 32);
+  background-color: #fcf7ff;
 }

@@ -5,14 +5,17 @@
   margin: 20px;
   overflow: hidden;
   font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: aquamarine;
 }
 
 .itemImage {
   max-width: 100%;
   height: auto;
+  border-radius: 5px;
 }
 
 .itemContent {
+  width: 100%;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
@@ -24,12 +27,19 @@
 }
 
 .itemButtom {
-  background-color: #29bb89;
+  background-color: #8fd694;
   border: none;
-  color: white;
+  color: rgb(23, 23, 23);
   padding: 10px;
   font-size: 14px;
   cursor: pointer;
   border-radius: 5px;
   font-weight: 600;
+}
+.buttonContainer {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  /* background-color: aquamarine; */
 }
