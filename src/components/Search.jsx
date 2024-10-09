@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import styles from "./Search.module.css";
+import styles from "./search.module.css";
 
 // const URL = "https://api.spoonacular.com/recipes/complexSearch";
 const URL = `${import.meta.env.VITE_API_URL}/complexSearch`;
