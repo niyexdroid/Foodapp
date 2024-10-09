@@ -1,4 +1,4 @@
-import styles from "./ingredientsItem.module.css";
+import styles from "./ingredientsitem.module.css";
 export default function IngredientsItem({ ingredient }) {
   return (
     <div>

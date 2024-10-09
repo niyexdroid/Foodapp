@@ -1,4 +1,4 @@
-import styles from "./Fooddetails.module.css";
+import styles from "./fooddetails.module.css";
 import { useEffect, useState } from "react";
 import IngredientsList from "./ingredientsList";
 
