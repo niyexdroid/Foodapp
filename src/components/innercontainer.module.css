@@ -2,5 +2,7 @@
   align-items: center;
   flex: 1;
   padding: 10px;
+  overflow-y: auto;
   margin: 20px;
+  border: 1px solid #ccc;
 }
