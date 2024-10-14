@@ -12,7 +12,6 @@ export default function FoodItem({ food, setFoodId }) {
           id={food.id}
           className={styles.itemButtom}
         >
-          {" "}
           View Recipe
         </button>
       </div>

@@ -12,3 +12,7 @@
   color: rgb(32, 32, 32);
   background-color: #fcf7ff;
 }
+
+.loading {
+  margin: 80px;
+}

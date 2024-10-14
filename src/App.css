@@ -1,5 +1,19 @@
 body {
-  margin: 0;
+  /* margin: 0;
   padding: 0;
-  background-color: #fcf7ff;
+  background-color: #fcf7ff; */
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (min-width: 1024px) {
+  .App {
+    justify-content: center;
+    width: 970px;
+    height: 860px;
+    align-items: center;
+  }
 }
